@@ -22,3 +22,28 @@ Wazuh Analysis Engine
  Wazuh Dashboard
         ↓
   SOC Investigation
+
+
+## Detection Scenarios
+
+### 1. Suspicious Local User/Group Creation
+
+A test account named `soc-test` was created on the Linux endpoint.
+
+The activity was detected using Wazuh and investigated by verifying:
+
+- User and group information
+- Sudo group membership
+- Account configuration
+- Login history
+
+### 2. SSH Login Attempt Using a Non-Existent User
+
+An SSH login attempt involving the username `soc-attacker` was generated.
+
+The activity was investigated using:
+
+- Wazuh detection
+- Linux authentication logs
+- Account verification
+- Successful-login checks

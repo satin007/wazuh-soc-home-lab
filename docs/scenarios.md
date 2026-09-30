@@ -62,15 +62,15 @@ The alert was reviewed to identify:
 
 ## Scenario 1 Evidence
 
-![Wazuh user creation alert](../screenshots/scenario-1/01-wazuh-user-creation-alert.png)
+![Wazuh user creation alert](screenshots/scenario-1/01-wazuh-user-creation-alert.png)
 
-![User and group verification](../screenshots/scenario-1/02-soc-test-user-group-verification.png)
+![User and group verification](screenshots/scenario-1/02-soc-test-user-group-verification.png)
 
-![Sudo group check](../screenshots/scenario-1/03-sudo-group-membership-check.png)
+![Sudo group check](screenshots/scenario-1/03-sudo-group-membership-check.png)
 
-![Account details](../screenshots/scenario-1/04-soc-test-account-details.png)
+![Account details](screenshots/scenario-1/04-soc-test-account-details.png)
 
-![Last login check](../screenshots/scenario-1/05-soc-test-last-login-check.png)
+![Last login check](screenshots/scenario-1/05-soc-test-last-login-check.png)
 
 ---
 

@@ -13,6 +13,7 @@ A test account named `soc-test` was created on the Linux endpoint.
 ### Detection
 
 Wazuh detected the account/group creation activity and generated a security alert.
+The alert showed the creation of the `soc-test` group on the Linux endpoint. The event was then investigated to verify the account and its configuration.
 
 ### Investigation
 
@@ -39,6 +40,12 @@ Multiple failed SSH login attempts were generated using a non-existent username.
 ### Detection
 
 Wazuh monitored the Linux authentication log and generated an alert for the activity.
+
+- **Rule ID:** 5710
+- **Severity Level:** 5
+- **Detection:** `sshd: Attempt to login using a non-existent user`
+
+The alert indicated that an SSH login attempt was made using the non-existent username `soc-attacker`.
 
 ### Investigation
 

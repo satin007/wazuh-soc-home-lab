@@ -74,7 +74,3 @@ The activity was investigated using:
 
 - [Scenario 1 Evidence](screenshots/scenario-1/)
 - [Scenario 2 Evidence](screenshots/scenario-2/)
-
-
-- Account verification
-- Successful-login checks

@@ -12,7 +12,7 @@ A test account named `soc-test` was created on the Ubuntu endpoint.
 
 Wazuh detected the account creation activity and displayed the event in the Wazuh dashboard.
 
-![Wazuh user creation alert](../screenshots/scenario-1/01-wazuh-user-creation-alert.png)
+![Wazuh user creation alert](screenshots/scenario-1/01-wazuh-user-creation-alert.png)
 
 ### Investigation
 

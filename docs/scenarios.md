@@ -57,3 +57,29 @@ The alert was reviewed to identify:
 - The Wazuh rule
 - The alert severity
 - The authentication failure details
+
+  ---
+
+## Scenario 1 Evidence
+
+![Wazuh user creation alert](../screenshots/scenario-1/01-wazuh-user-creation-alert.png)
+
+![User and group verification](../screenshots/scenario-1/02-soc-test-user-group-verification.png)
+
+![Sudo group check](../screenshots/scenario-1/03-sudo-group-membership-check.png)
+
+![Account details](../screenshots/scenario-1/04-soc-test-account-details.png)
+
+![Last login check](../screenshots/scenario-1/05-soc-test-last-login-check.png)
+
+---
+
+## Scenario 2 Evidence
+
+![Wazuh SSH attack detection](../screenshots/scenario-2/01-wazuh-ssh-attack-detection.png)
+
+![SSH failed login and authentication log](../screenshots/scenario-2/02-ssh-failed-login-auth-log.png)
+
+![soc-attacker account verification](../screenshots/scenario-2/03-soc-attacker-account-verification.png)
+
+![No successful SSH login](../screenshots/scenario-2/04-no-successful-ssh-login-confirmed.png)

@@ -45,5 +45,36 @@ The activity was investigated using:
 
 - Wazuh detection
 - Linux authentication logs
+
+## Technologies Used
+
+- Wazuh
+- Ubuntu Linux
+- SSH
+- Linux authentication logs
+- VirtualBox
+
+## Skills Demonstrated
+
+- SIEM monitoring
+- Security alert analysis
+- Linux log analysis
+- SSH authentication investigation
+- User and group investigation
+- Basic incident investigation
+- Security event validation
+
+## Project Documentation
+
+- [Project Overview](docs/project-overview.md)
+- [Lab Architecture](docs/architecture.md)
+- [Detection Scenarios](docs/scenarios.md)
+
+## Evidence
+
+- [Scenario 1 Evidence](screenshots/scenario-1/)
+- [Scenario 2 Evidence](screenshots/scenario-2/)
+
+
 - Account verification
 - Successful-login checks

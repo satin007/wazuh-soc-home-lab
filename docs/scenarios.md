@@ -76,10 +76,10 @@ The alert was reviewed to identify:
 
 ## Scenario 2 Evidence
 
-![Wazuh SSH attack detection](../screenshots/scenario-2/01-wazuh-ssh-attack-detection.png)
+![Wazuh SSH attack detection](screenshots/scenario-2/01-wazuh-ssh-attack-detection.png)
 
-![SSH failed login and authentication log](../screenshots/scenario-2/02-ssh-failed-login-auth-log.png)
+![SSH failed login and authentication log](screenshots/scenario-2/02-ssh-failed-login-auth-log.png)
 
-![soc-attacker account verification](../screenshots/scenario-2/03-soc-attacker-account-verification.png)
+![soc-attacker account verification](screenshots/scenario-2/03-soc-attacker-account-verification.png)
 
-![No successful SSH login](../screenshots/scenario-2/04-no-successful-ssh-login-confirmed.png)
+![No successful SSH login](screenshots/scenario-2/04-no-successful-ssh-login-confirmed.png)

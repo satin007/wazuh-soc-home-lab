@@ -73,5 +73,5 @@ The activity was investigated using:
 
 ## Evidence
 
-- [Scenario 1 Evidence](screenshots/scenario-1/)
-- [Scenario 2 Evidence](screenshots/scenario-2/)
+- [Scenario 1 Evidence](docs/screenshots/scenario-1/)
+- [Scenario 2 Evidence](docs/screenshots/scenario-2/)

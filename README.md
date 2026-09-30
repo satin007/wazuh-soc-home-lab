@@ -22,8 +22,6 @@ Wazuh Analysis Engine
  Wazuh Dashboard
         ↓
   SOC Investigation
-
-
 ## Detection Scenarios
 
 ### 1. Suspicious Local User/Group Creation
